@@ -47,3 +47,5 @@ with open(csvpath) as csvfile:
     print(f"Total number of months: {total_months}")
     print(f"Net total is {net_total}")
     print(f"The greatest increase in profits was {greatest_increase} in {greatest_increase_month}")
+    print(f"The greatest decrease in profits was {greatest_decrease} in {greatest_decrease_month}")
+    print(f"The average change in profit was {average_profit}")
