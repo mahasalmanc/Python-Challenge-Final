@@ -39,5 +39,4 @@ percentage_list = list(candidate_percentage.items())
 print(percentage_list[1])
 print(f"The total number of votes cast in the election was {total_votes}")
 print(f"The candidates running consist of {candidate_list[0]}, {candidate_list[1]}, and {candidate_list[2]}")
-#for candidate,percentage in candidate_percentage.items():
-   # print(candidate,percentage)
+
